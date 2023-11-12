@@ -1,3 +1,5 @@
+package ru.vipksu;
+
 public class BaseJava {
     public static void main(String[] args) {
         byte aMinByte=-128;
